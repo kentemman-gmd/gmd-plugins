@@ -4,6 +4,11 @@
       "name": "QML Style Manager",
       "repoUrl": "https://api.github.com/repos/Geotags-GMD/apply_qml_style/releases/latest",
       "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/qml-style-manager.png"
+    },
+     {
+      "name": "Color Categorizer",
+      "repoUrl": "https://api.github.com/repos/Geotags-GMD/color_categorizer/releases/latest",
+      "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/color_categorizer.png"
     }
   ]
 }

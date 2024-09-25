@@ -1,0 +1,28 @@
+{
+  "plugins": [
+    {
+      "name": "Advanced Analytics",
+      "repoUrl": "https://api.github.com/repos/org1/advanced-analytics/releases/latest"
+    },
+    {
+      "name": "GeoProcessing Toolkit",
+      "repoUrl": "https://api.github.com/repos/org2/geo-processing-toolkit/releases/latest"
+    },
+    {
+      "name": "AutoCAD Importer",
+      "repoUrl": "https://api.github.com/repos/org3/autocad-importer/releases/latest"
+    },
+    {
+      "name": "3D Terrain Modeler",
+      "repoUrl": "https://api.github.com/repos/org1/3d-terrain-modeler/releases/latest"
+    },
+    {
+      "name": "Data Cleaner Pro",
+      "repoUrl": "https://api.github.com/repos/org2/data-cleaner-pro/releases/latest"
+    },
+    {
+      "name": "Satellite Imagery Enhancer",
+      "repoUrl": "https://api.github.com/repos/org3/satellite-imagery-enhancer/releases/latest"
+    }
+  ]
+}

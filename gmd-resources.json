@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Advanced Analytics",
+    "description": "Powerful analytics tools for in-depth data analysis.",
+    "version": "2.1.0",
+    "iconUrl": "https://raw.githubusercontent.com/yourusername/repo-name/main/icons/advanced-analytics.svg",
+    "downloadUrl": "https://example.com/download/advanced-analytics",
+    "category": "Plugins",
+    "features": ["Real-time data processing", "Custom report generation", "Integration with external data sources"],
+    "latestUpdate": "Added support for big data processing with Apache Spark"
+  },
+  {
+    "name": "GeoProcessing Toolkit",
+    "description": "Comprehensive set of geoprocessing tools for spatial analysis.",
+    "version": "3.0.2",
+    "iconUrl": "https://raw.githubusercontent.com/yourusername/repo-name/main/icons/geoprocessing-toolkit.svg",
+    "downloadUrl": "https://example.com/download/geoprocessing-toolkit",
+    "category": "Plugins",
+    "features": ["Advanced buffer analysis", "Multi-layer overlay operations", "Terrain modeling and analysis"],
+    "latestUpdate": "Improved performance for large-scale vector operations"
+  }
+]

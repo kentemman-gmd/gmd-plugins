@@ -8,6 +8,5 @@
     "category": "Plugins",
     "features": ["Real-time data processing", "Custom report generation", "Integration with external data sources"],
     "latestUpdate": "Added support for big data processing with Apache Spark"
-  },
-  // ... other resources ...
+  }
 ]

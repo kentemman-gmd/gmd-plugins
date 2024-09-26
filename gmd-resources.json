@@ -1,11 +1,20 @@
 [
   {
     "name": "QML Style Manager",
-    "description": "Powerful analytics tools for in-depth data analysis.",
+    "description": "QML Style Manager is a powerful QGIS plugin designed to streamline the process of applying QML styles to layers within specific layer groups. This plugin is particularly useful for managing and styling large sets of geospatial data where consistent visual representation is crucial.",
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/qml-style-manager.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/apply_qml_style/releases/latest",
     "category": "Plugins",
-    "features": ["Real-time data processing", "Custom report generation", "Integration with external data sources"],
-    "latestUpdate": "Added support for big data processing with Apache Spark"
+    "features": ["Folder Selection: Select a folder containing QML files.", "Layer Group Selection: Choose from available layer groups ending with _2024maplayers.", "Apply Styles: Automatically apply QML styles to layers based on their names.","Rearrange Layers: Organize layers within selected groups according to a specified order."],
+    "latestUpdate": "Layers outside selected groups now get two styles applied"
+  },
+   {
+    "name": "Color Categorizer",
+    "description": " Color Categorizer plugin for QGIS allows users to apply categorized colors to layers based on attributes using color data from a JSON file. This tool helps automate the process of applying consistent styling to map layers, particularly useful for thematic mapping.",
+    "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/color_categorizer.png",
+    "repoUrl": "https://api.github.com/repos/Geotags-GMD/color_categorizer/releases/latest",
+    "category": "Plugins",
+    "features": ["Select a layer and attribute field to categorize.", "Load color data from a JSON file and display it in an editable table.", "Customize colors using a built-in color picker.","Apply categorized color symbology to the selected layer.","Save and load settings, including previously selected JSON paths, layers, and attributes."],
+    "latestUpdate": "Automatically apply the colors to your layer based on attribute values"
   }
 ]

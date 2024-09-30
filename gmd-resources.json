@@ -24,6 +24,6 @@
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/query_builder_dialog/releases/latest",
     "category": "Plugins",
     "features": ["Dynamic Query Builder: Select layers, fields, and values to construct queries visually.", "Saved Queries Management: Save, update, and delete queries for later use.", "Test Queries: Validate queries before applying them to ensure correctness.","Clear Filter: Quickly reset query fields and filters.","User-Friendly Interface: Designed with a clean layout for easy navigation."],
-    "latestUpdate": "New Plugin"
+    "latestUpdate": "Fix Validation"
   }
 ]

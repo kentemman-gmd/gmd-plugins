@@ -18,12 +18,18 @@
     "latestUpdate": "Automatically apply the colors to your layer based on attribute values"
   },
   {
-    "name": "Query Manager",
-    "description": "The Query Manager provides an intuitive interface for building and managing queries on geospatial data layers within QGIS. Users can create, test, save, and apply queries easily, improving workflow efficiency for data analysis and visualization.",
-    "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/query_manager.png",
-    "repoUrl": "https://api.github.com/repos/Geotags-GMD/query_builder_dialog/releases/latest",
-    "category": "Plugins",
-    "features": ["Dynamic Query Builder: Select layers, fields, and values to construct queries visually.", "Saved Queries Management: Save, update, and delete queries for later use.", "Test Queries: Validate queries before applying them to ensure correctness.","Clear Filter: Quickly reset query fields and filters.","User-Friendly Interface: Designed with a clean layout for easy navigation."],
-    "latestUpdate": "Fix Validation"
+      "name": "Error List Checker",
+      "description": "The Error List Checker provides an intuitive interface for validating attributes within geospatial data layers in QGIS. Users can check for discrepancies in facility names and sector categories, generating an error list for further review.",
+      "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/error-list.png.png",
+      "repoUrl": "https://api.github.com/repos/Geotags-GMD/error_list_checker/releases/latest",
+      "category": "Plugins",
+      "features": [
+          "Layer Selection: Choose layers ending with '_SF' or '_GP' for validation.",
+          "Validation Criteria: Automatically checks facility names against specified keywords.",
+          "Error Reporting: Generates a detailed error list with facility geoid and remarks.",
+          "User-Friendly Interface: Designed with easy navigation and quick access to features."
+      ],
+      "latestUpdate": "Initial Release with Error Validation Features"
+  
   }
 ]

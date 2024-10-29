@@ -21,7 +21,7 @@
       "name": "Error List Checker",
       "description": "The Error List Checker provides an intuitive interface for validating attributes within geospatial data layers in QGIS. Users can check for discrepancies in facility names and sector categories, generating an error list for further review.",
       "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/error-list.png",
-      "repoUrl": "https://api.github.com/repos/Geotags-GMD/error_list_checker/releases/latest",
+      "repoUrl": "https://api.github.com/repos/kentemman-gmd/error_list_checker/releases/latest",
       "category": "Plugins",
       "features": [
           "Layer Selection: Choose layers ending with '_SF' or '_GP' for validation.",

@@ -24,7 +24,6 @@
       "repoUrl": "https://api.github.com/repos/kentemman-gmd/error_list_checker/releases/latest",
       "category": "Plugins",
       "features": [
-          "Layer Selection: Choose layers ending with '_SF' or '_GP' for validation.",
           "Validation Criteria: Automatically checks facility names against specified keywords.",
           "Error Reporting: Generates a detailed error list with facility geoid and remarks.",
           "User-Friendly Interface: Designed with easy navigation and quick access to features."

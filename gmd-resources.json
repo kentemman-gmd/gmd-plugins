@@ -16,19 +16,6 @@
     "category": "Plugins",
     "features": ["Select a layer and attribute field to categorize.", "Load color data from a JSON file and display it in an editable table.", "Customize colors using a built-in color picker.","Apply categorized color symbology to the selected layer.","Save and load settings, including previously selected JSON paths, layers, and attributes."],
     "latestUpdate": "Automatically apply the colors to your layer based on attribute values"
-  },
-  {
-      "name": "Error List Checker",
-      "description": "The Error List Checker provides an intuitive interface for validating attributes within geospatial data layers in QGIS. Users can check for discrepancies in facility names and sector categories, generating an error list for further review.",
-      "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/error-list.png",
-      "repoUrl": "https://api.github.com/repos/kentemman-gmd/error_list_checker/releases/latest",
-      "category": "Plugins",
-      "features": [
-          "Validation Criteria: Automatically checks facility names against specified keywords.",
-          "Error Reporting: Generates a detailed error list with facility geoid and remarks.",
-          "User-Friendly Interface: Designed with easy navigation and quick access to features."
-      ],
-      "latestUpdate": "Initial Release with Error Validation Features"
-  
   }
+
 ]

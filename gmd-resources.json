@@ -16,6 +16,25 @@
     "category": "Plugins",
     "features": ["Select a layer and attribute field to categorize.", "Load color data from a JSON file and display it in an editable table.", "Customize colors using a built-in color picker.","Apply categorized color symbology to the selected layer.","Save and load settings, including previously selected JSON paths, layers, and attributes."],
     "latestUpdate": "Automatically apply the colors to your layer based on attribute values"
-  }
+  },
 
+  {
+    "name": "Error List Checker",
+    "description": "This plugin allows users to validate geospatial data by checking for discrepancies in facility names and sector categories. It generates a detailed errorlist for review.",
+    "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/error-list.png",
+    "repoUrl": "https://api.github.com/repos/Geotags-GMD/error_list_checker/releases/latest",
+    "category": "Plugins",
+    "features": [""],
+    "latestUpdate": ""
+  },
+
+  {
+    "name": "AuQCBMS",
+    "description": "AuQCBMS is a QGIS plugin that streamlines mapping tasks with easy styling, filtering by geocode, and organized layer exports.",
+    "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/auqcbms.png",
+    "repoUrl": "https://api.github.com/repos/Geotags-GMD/auqcbms/releases/latest",
+    "category": "Plugins",
+    "features": [""],
+    "latestUpdate": ""
+  }
 ]

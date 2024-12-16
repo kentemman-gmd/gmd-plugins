@@ -44,6 +44,6 @@
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/overlap_processing/releases/latest",
     "category": "Plugins",
     "features": [""],
-    "latestUpdate": "Corrected GEOID, GEOCODE, REG_NAME, PROV_NAME, MUN_NAME of the transferred points, based on the prevailing EA ,Added Remarks for Audit Trail, Changed BSN of Transferred points to become increment of 70000-series"
+    "latestUpdate": "Updated GEOID, GEOCODE, region, province, and municipality names of transferred points, added audit trail remarks, and changed BSN to 70000-series increments."
   }
 ]

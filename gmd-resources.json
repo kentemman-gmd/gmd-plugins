@@ -29,7 +29,7 @@
   },
 
   {
-    "name": "AuQCBMS",
+    "name": "QField Modified",
     "description": "AuQCBMS is a QGIS plugin that streamlines mapping tasks with easy styling, filtering by geocode, and organized layer exports.",
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/auqcbms.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/auqcbms/releases/latest",

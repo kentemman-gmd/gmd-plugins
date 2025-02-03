@@ -30,8 +30,7 @@
 
   {
     "name": "QField Modified",
-    "description": "The QField Modified Plugin provides four key functions: Package for QField, which allows users to filter barangay data for export and generate a QField Project; Map Generation, which loads base layers, satellite imagery, reference data, a built-in tagging layer for CBMS Form 8, and a built-in value relation that automatically loads into QGIS; Processing, which operates similarly to Map Generation for processing layers; and Filter Geocode, where users select a barangay layer to filter the geocode and automatically apply filters to barangay, enumeration area, building point layers, and more.
-",
+    "description": "The QField Modified Plugin provides four key functions: Package for QField, which allows users to filter barangay data for export and generate a QField Project; Map Generation, which loads base layers, satellite imagery, reference data, a built-in tagging layer for CBMS Form 8, and a built-in value relation that automatically loads into QGIS; Processing, which operates similarly to Map Generation for processing layers; and Filter Geocode, where users select a barangay layer to filter the geocode and automatically apply filters to barangay, enumeration area, building point layers, and more.",
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/auqcbms.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/download/releases/latest",
     "category": "Plugins",

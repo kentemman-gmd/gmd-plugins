@@ -8,6 +8,24 @@
     "features": ["Folder Selection: Select a folder containing QML files.", "Layer Group Selection: Choose from available layer groups ending with _2024maplayers.", "Apply Styles: Automatically apply QML styles to layers based on their names.","Rearrange Layers: Organize layers within selected groups according to a specified order."],
     "latestUpdate": "Layers outside selected groups now get two styles applied"
   },
+    {
+  "name": "QField Modified",
+  "description": "The QField Modified Plugin provides four key functions:\n\n\n- **Package for QField**: Enables users to filter barangay data for export and generate a QField project.\n\n- **Map Generation**: Loads base layers, satellite imagery, reference data, a built-in tagging layer for CBMS Form 8, and a built-in value relation that automatically integrates into QGIS.\n\n- **Processing**: Functions similarly to Map Generation but focuses on processing layers.\n\n- **Filter Geocode**: Allows users to select a barangay layer to filter geocode data, automatically applying filters to barangay, enumeration area, and building point layers.",
+  "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/auqcbms.png",
+  "repoUrl": "https://api.github.com/repos/Geotags-GMD/download/releases/latest",
+  "category": "Plugins",
+  "features": [],
+  "latestUpdate": ""
+},
+    {
+  "name": "GMD Toolkits",
+  "description": "This tool is an all-in-one solution for processing, with all models included in this plugin",
+  "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/gmd_toolkits.png",
+  "repoUrl": "https://api.github.com/repos/Geotags-GMD/gmd_toolkits/releases/latest",
+  "category": "Plugins",
+  "features": [],
+  "latestUpdate": ""
+},
    {
     "name": "Color Categorizer",
     "description": "Color Categorizer plugin for QGIS allows users to apply categorized colors to layers based on attributes using color data from a JSON file. This tool helps automate the process of applying consistent styling to map layers, particularly useful for thematic mapping.",
@@ -28,24 +46,6 @@
     "latestUpdate": ""
   },
 
-  {
-  "name": "QField Modified",
-  "description": "The QField Modified Plugin provides four key functions:\n\n\n- **Package for QField**: Enables users to filter barangay data for export and generate a QField project.\n\n- **Map Generation**: Loads base layers, satellite imagery, reference data, a built-in tagging layer for CBMS Form 8, and a built-in value relation that automatically integrates into QGIS.\n\n- **Processing**: Functions similarly to Map Generation but focuses on processing layers.\n\n- **Filter Geocode**: Allows users to select a barangay layer to filter geocode data, automatically applying filters to barangay, enumeration area, and building point layers.",
-  "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/auqcbms.png",
-  "repoUrl": "https://api.github.com/repos/Geotags-GMD/download/releases/latest",
-  "category": "Plugins",
-  "features": [],
-  "latestUpdate": ""
-},
-    {
-  "name": "GMD Toolkits",
-  "description": "This tool is an all-in-one solution for processing, with all models included in this plugin",
-  "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/gmd_toolkits.png",
-  "repoUrl": "https://api.github.com/repos/Geotags-GMD/gmd_toolkits/releases/latest",
-  "category": "Plugins",
-  "features": [],
-  "latestUpdate": ""
-},
    {
     "name": "Overlap Processing",
     "description": "To process building points on the overlap areas for the 2024 POPCEN-CBMS",

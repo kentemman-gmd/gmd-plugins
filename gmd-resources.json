@@ -37,6 +37,15 @@
   "features": [],
   "latestUpdate": ""
 },
+    {
+  "name": "GMD Toolkits",
+  "description": "This tool is an all-in-one solution for processing, with all models included in this plugin",
+  "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/gmd_toolkits.png",
+  "repoUrl": "https://api.github.com/repos/Geotags-GMD/gmd_toolkits/releases/latest",
+  "category": "Plugins",
+  "features": [],
+  "latestUpdate": ""
+},
    {
     "name": "Overlap Processing",
     "description": "To process building points on the overlap areas for the 2024 POPCEN-CBMS",

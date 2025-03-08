@@ -5,6 +5,7 @@
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/qml-style-manager.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/apply_qml_style/releases/latest",
     "category": "Plugins",
+    "file_name":"apply_qml_style.zip",
     "features": ["Folder Selection: Select a folder containing QML files.", "Layer Group Selection: Choose from available layer groups ending with _2024maplayers.", "Apply Styles: Automatically apply QML styles to layers based on their names.","Rearrange Layers: Organize layers within selected groups according to a specified order."],
     "latestUpdate": "Layers outside selected groups now get two styles applied"
   },
@@ -14,6 +15,7 @@
   "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/auqcbms.png",
   "repoUrl": "https://api.github.com/repos/Geotags-GMD/download/releases/latest",
   "category": "Plugins",
+  "file_name":"qfieldmod.zip",
   "features": [],
   "latestUpdate": ""
 },
@@ -23,6 +25,7 @@
   "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/gmd_toolkits.png",
   "repoUrl": "https://api.github.com/repos/Geotags-GMD/gmd_toolkits/releases/latest",
   "category": "Plugins",
+  "file_name":"gmd_toolkits.zip",
   "features": [],
   "latestUpdate": ""
 },
@@ -32,6 +35,7 @@
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/color_categorizer.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/color_categorizer/releases/latest",
     "category": "Plugins",
+     "file_name":"color_categorizer.zip",
     "features": ["Select a layer and attribute field to categorize.", "Load color data from a JSON file and display it in an editable table.", "Customize colors using a built-in color picker.","Apply categorized color symbology to the selected layer.","Save and load settings, including previously selected JSON paths, layers, and attributes."],
     "latestUpdate": "Automatically apply the colors to your layer based on attribute values"
   },
@@ -42,6 +46,7 @@
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/error-list.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/error_list_checker/releases/latest",
     "category": "Plugins",
+    "file_name":"error_list_checker.zip",
     "features": [""],
     "latestUpdate": ""
   },
@@ -52,6 +57,7 @@
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/overlapping.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/overlap_processing/releases/latest",
     "category": "Plugins",
+     "file_name":"overlap_processing.zip",
     "features": [""],
     "latestUpdate": ""
   }

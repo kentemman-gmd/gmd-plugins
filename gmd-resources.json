@@ -63,7 +63,7 @@
   },
 
  {
-    "name": "Processing Model",
+    "name": "MDP/MDR Processing Models",
     "description": "All processing model",
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/processing-model.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/2025-Processing-Model/releases/latest",

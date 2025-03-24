@@ -64,11 +64,11 @@
 
  {
     "name": "Processing Model",
-    "description": "To process building points on the overlap areas for the 2024 POPCEN-CBMS",
+    "description": "All processing model",
     "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/overlapping.png",
-    "repoUrl": "https://api.github.com/repos/Geotags-GMD/overlap_processing/releases/latest",
+    "repoUrl": "https://api.github.com/repos/Geotags-GMD/2025-Processing-Model/releases/latest",
     "category": "Model",
-     "file_name":"overlap_processing.zip",
+     "file_name":"Processing Model.zip",
     "features": [""],
     "latestUpdate": ""
   }

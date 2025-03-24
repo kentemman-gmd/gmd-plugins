@@ -65,7 +65,7 @@
  {
     "name": "Processing Model",
     "description": "All processing model",
-    "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/Plugin_OnDev/refs/heads/main/icon/overlapping.png",
+    "iconUrl": "https://raw.githubusercontent.com/kentemman-gmd/gmd-plugins/refs/heads/main/icons/processing-model.png",
     "repoUrl": "https://api.github.com/repos/Geotags-GMD/2025-Processing-Model/releases/latest",
     "category": "Model",
      "file_name":"Processing Model.zip",
